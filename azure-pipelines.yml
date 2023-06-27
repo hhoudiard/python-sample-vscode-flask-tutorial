@@ -23,4 +23,4 @@ steps:
 - task: PythonScript@0
   inputs:
     scriptSource: 'inline'
-    script: 'print("coucou")'
+    script: 'print("coucou toi")'
